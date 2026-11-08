@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Sistemas White Label</title>
+  <desc id="desc">Desenvolvimento de software sob medida. SaaS, sites, trading, cassinos e bots Telegram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1120"/>
+      <stop offset="1" stop-color="#19254a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+  <rect x="48" y="52" width="48" height="5" rx="2.5" fill="url(#accent)"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="48" y="113" font-size="40" font-weight="700" fill="#f8fafc">SISTEMAS WHITE LABEL</text>
+    <text x="48" y="163" font-size="26" fill="#cbd5e1">Software sob medida para o seu negócio.</text>
+    <text x="48" y="228" font-size="20" fill="#7dd3fc">SaaS · Sites · Trading · Cassinos · Bots Telegram</text>
+  </g>
+  <g transform="translate(972 83)" fill="none" stroke-width="3">
+    <rect x="0" y="0" width="146" height="132" rx="16" stroke="#33466d"/>
+    <path d="M48 44 26 66l22 22M98 44l22 22-22 22" stroke="#7dd3fc" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m83 35-20 62" stroke="#a5b4fc" stroke-linecap="round"/>
+  </g>
+  <rect x="48" y="272" width="1104" height="2" rx="1" fill="url(#accent)" opacity=".5"/>
+</svg>
