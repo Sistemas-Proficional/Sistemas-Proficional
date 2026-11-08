@@ -6,7 +6,7 @@ Desenvolvo **SaaS, sites, plataformas de cassino, software para corretoras Forex
 
 Trabalho com desenvolvimento sob demanda, personalização de sistemas e soluções white label para quem quer criar um produto com sua própria marca.
 
-**[💬 Solicitar orçamento pelo WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20seu%20perfil%20no%20GitHub%20(Sistemas-Proficional)%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto.)** · **[📂 Ver todos os repositórios](https://github.com/Sistemas-Proficional?tab=repositories)** · **[English](#custom-software-development)**
+**[💬 Solicitar orçamento pelo WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20seu%20perfil%20no%20GitHub%20(Sistemas-Proficional)%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto.)** · **[📂 Ver todos os repositórios](https://github.com/Sistemas-Proficional?tab=repositories)** · **[English](#custom-software-development)** · **[Español](#desarrollo-de-software-a-medida)**
 
 ## O que desenvolvo
 
@@ -80,3 +80,30 @@ Explore the public repositories linked above for product descriptions and projec
 To discuss a project, share your goals, required features, integrations and expected timeline.
 
 **[💬 Discuss a project on WhatsApp](https://wa.me/5511912536227?text=Hi!%20I%20found%20Sistemas-Proficional%20on%20GitHub%20and%20would%20like%20to%20discuss%20a%20software%20project.)** · **[📂 Browse all repositories](https://github.com/Sistemas-Proficional?tab=repositories)**
+
+---
+
+## Desarrollo de software a medida
+
+Desarrollo **productos SaaS, sitios web, plataformas de casino, software para brókeres de Forex y opciones binarias, bots de Telegram y automatizaciones para salas de señales**.
+
+Mis servicios incluyen:
+
+- Aplicaciones web a medida y plataformas de marca blanca (white label).
+- Sitios web y landing pages para empresas, servicios y productos digitales.
+- Desarrollo y personalización de software para casinos y plataformas de trading.
+- Bots de Telegram para canales, grupos y distribución de señales.
+- Robots, integración de APIs y automatización de tareas y procesos.
+
+Explora mis repositorios públicos para conocer algunas de las soluciones:
+
+- [Plataformas de casino online](https://github.com/Sistemas-Proficional/SCRIPT-COMPLETO-CASSINO).
+- [Plataforma de opciones binarias de marca blanca](https://github.com/Sistemas-Proficional/broker-white-label-opcoes-binarias).
+- [Desarrollo de SaaS a medida y de marca blanca](https://github.com/Sistemas-Proficional/saas-white-label-plataforma-profissional-fabrica-de-saas).
+- [Bots de Telegram para salas de señales](https://github.com/Sistemas-Proficional/BOT-SINAIS-TELEGRAM-).
+
+Las posibilidades de integración dependen de las APIs y los recursos disponibles en cada plataforma. La información y las condiciones de acceso al código se describen en cada repositorio.
+
+Para solicitar un presupuesto, comparte tu idea, las funcionalidades que necesitas, las integraciones y el plazo previsto.
+
+**[💬 Solicitar presupuesto por WhatsApp](https://wa.me/5511912536227?text=%C2%A1Hola!%20Encontr%C3%A9%20tu%20perfil%20en%20GitHub%20(Sistemas-Proficional)%20y%20me%20gustar%C3%ADa%20solicitar%20un%20presupuesto%20para%20mi%20proyecto.)** · **[📂 Ver todos los repositorios](https://github.com/Sistemas-Proficional?tab=repositories)**
