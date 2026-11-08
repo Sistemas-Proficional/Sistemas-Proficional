@@ -8,6 +8,8 @@ Trabalho com desenvolvimento sob demanda, personalização de sistemas e soluç�
 
 **[💬 Solicitar orçamento pelo WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20seu%20perfil%20no%20GitHub%20(Sistemas-Proficional)%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20meu%20projeto.)** · **[📂 Ver todos os repositórios](https://github.com/Sistemas-Proficional?tab=repositories)** · **[English](#custom-software-development)** · **[Español](#desarrollo-de-software-a-medida)**
 
+**[Portfólio · Portfolio · Portafolio](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio)**
+
 ## O que desenvolvo
 
 | Especialidade | Como posso ajudar |
@@ -27,10 +29,12 @@ Explore estas apresentações públicas para conhecer algumas das áreas em que 
 
 | Área | Repositório |
 | --- | --- |
-| **Cassino online** | [Script completo de cassino](https://github.com/Sistemas-Proficional/SCRIPT-COMPLETO-CASSINO) |
-| **Corretora de opções binárias** | [Broker white label — plataforma e funcionalidades](https://github.com/Sistemas-Proficional/broker-white-label-opcoes-binarias) |
+| **Cassino chinês white label** | [Interface 777 e desenvolvimento de cassino](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/cassino-chines-white-label) |
+| **Bet nacional** | [Projeto 7Prime — plataforma de cassino](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bet-nacional-plataforma-profissional) |
+| **Corretora de opções binárias** | [AXION — página institucional e terminal demo](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/corretora-opcoes-binarias-profissional) |
+| **Corretora Forex** | [Serviço de desenvolvimento e escopo sob medida](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/corretora-forex-desenvolvimento-profissional) |
+| **Bots para Telegram** | [Automação para salas de sinais](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bot-sinais-telegram-profissional) |
 | **SaaS sob medida e white label** | [Fábrica de SaaS — sistemas e possibilidades de personalização](https://github.com/Sistemas-Proficional/saas-white-label-plataforma-profissional-fabrica-de-saas) |
-| **Bots para Telegram** | [Bots para salas de sinais](https://github.com/Sistemas-Proficional/BOT-SINAIS-TELEGRAM-) |
 
 **[Explorar todos os repositórios públicos →](https://github.com/Sistemas-Proficional?tab=repositories)**
 
