@@ -10,7 +10,7 @@ Conheça os projetos e serviços de desenvolvimento da Sistemas White Label. Esc
 | --- | --- | --- |
 | Cassino chinês white label | Plataforma de cassino online | [Conhecer o projeto](cassino-chines-white-label/README.md) |
 | Bet nacional | Plataforma profissional de cassino para o Brasil | [Conhecer o projeto](bet-nacional-plataforma-profissional/README.md) |
-| Corretora de opções binárias white label | Plataforma AXION | [Conhecer o projeto](corretora-opcoes-binarias-profissional/README.md) |
+| Corretora de opções binárias white label | Plataforma AXION | [Conhecer o projeto](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.md) |
 | Corretora Forex profissional | Desenvolvimento de software sob medida | [Conhecer o projeto](corretora-forex-desenvolvimento-profissional/README.md) |
 | Bot de sinais Telegram | Automação profissional para salas de sinais | [Conhecer o projeto](bot-sinais-telegram-profissional/README.md) |
 
@@ -36,7 +36,7 @@ Apresentações disponíveis em português, espanhol e inglês.
 
 ![Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação.](corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png)
 
-[Ver apresentação](corretora-opcoes-binarias-profissional/README.md)
+[Ver apresentação](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.md)
 
 ### Bot de sinais Telegram
 

@@ -10,7 +10,7 @@ Conoce los proyectos y servicios de desarrollo de Sistemas White Label. Elige un
 | --- | --- | --- |
 | Casino de estilo chino de marca blanca | Plataforma de casino online | [Conocer el proyecto](cassino-chines-white-label/README.es.md) |
 | Plataforma de casino para Brasil | Bet nacional de marca blanca | [Conocer el proyecto](bet-nacional-plataforma-profissional/README.es.md) |
-| Plataforma de opciones binarias de marca blanca | AXION | [Conocer el proyecto](corretora-opcoes-binarias-profissional/README.es.md) |
+| Plataforma de opciones binarias de marca blanca | AXION | [Conocer el proyecto](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.es.md) |
 | Software profesional para brókeres Forex | Desarrollo a medida | [Conocer el proyecto](corretora-forex-desenvolvimento-profissional/README.es.md) |
 | Bot de Telegram para señales | Automatización de canales y grupos | [Conocer el proyecto](bot-sinais-telegram-profissional/README.es.md) |
 
@@ -36,7 +36,7 @@ Presentaciones disponibles en portugués, español e inglés.
 
 ![Terminal AXION en cuenta demo: gráfico BTC/USDT y controles de operación.](corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png)
 
-[Ver presentación](corretora-opcoes-binarias-profissional/README.es.md)
+[Ver presentación](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.es.md)
 
 ### Bot de Telegram para señales
 

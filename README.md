@@ -31,7 +31,7 @@ Explore estas apresentações públicas para conhecer algumas das áreas em que 
 | --- | --- |
 | **Cassino chinês white label** | [Interface 777 e desenvolvimento de cassino](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/cassino-chines-white-label) |
 | **Bet nacional** | [Projeto 7Prime — plataforma de cassino](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bet-nacional-plataforma-profissional) |
-| **Corretora de opções binárias** | [AXION — página institucional e terminal demo](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/corretora-opcoes-binarias-profissional) |
+| **Corretora de opções binárias** | [AXION — página institucional e terminal demo](https://github.com/Sistemas-Proficional/axion-broker-white-label) |
 | **Corretora Forex** | [Serviço de desenvolvimento e escopo sob medida](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/corretora-forex-desenvolvimento-profissional) |
 | **Bots para Telegram** | [Automação para salas de sinais](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bot-sinais-telegram-profissional) |
 | **SaaS sob medida e white label** | [Fábrica de SaaS — sistemas e possibilidades de personalização](https://github.com/Sistemas-Proficional/saas-white-label-plataforma-profissional-fabrica-de-saas) |
@@ -48,7 +48,7 @@ O conteúdo disponível e as condições de acesso ao código de cada solução 
 <td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bet-nacional-plataforma-profissional"><img src="portfolio/bet-nacional-plataforma-profissional/assets/7prime-casino-lobby.png" alt="Interface 7Prime com banner, catálogo, jogos populares e navegação em português." width="400" /></a><br /><strong>7Prime · Bet nacional</strong></td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/corretora-opcoes-binarias-profissional"><img src="portfolio/corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png" alt="Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação." width="400" /></a><br /><strong>AXION · Binary options / Opciones binarias</strong></td>
+<td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/axion-broker-white-label"><img src="portfolio/corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png" alt="Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação." width="400" /></a><br /><strong>AXION · Binary options / Opciones binarias</strong></td>
 <td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bot-sinais-telegram-profissional"><img src="portfolio/bot-sinais-telegram-profissional/assets/telegram-signal-example.png" alt="Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3." width="400" /></a><br /><strong>Telegram · Bots de sinais / señales</strong></td>
 </tr>
 </table>
@@ -119,7 +119,7 @@ Mis servicios incluyen:
 Explora mis repositorios públicos para conocer algunas de las soluciones:
 
 - [Plataformas de casino online](https://github.com/Sistemas-Proficional/SCRIPT-COMPLETO-CASSINO).
-- [Plataforma de opciones binarias de marca blanca](https://github.com/Sistemas-Proficional/broker-white-label-opcoes-binarias).
+- [Plataforma de opciones binarias de marca blanca](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.es.md).
 - [Desarrollo de SaaS a medida y de marca blanca](https://github.com/Sistemas-Proficional/saas-white-label-plataforma-profissional-fabrica-de-saas).
 - [Bots de Telegram para salas de señales](https://github.com/Sistemas-Proficional/BOT-SINAIS-TELEGRAM-).
 

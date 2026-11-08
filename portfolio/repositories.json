@@ -1,6 +1,6 @@
 {
   "owner": "Sistemas-Proficional",
-  "status": "presentations_and_images_published_in_profile_repository_separate_repositories_pending",
+  "status": "presentations_and_images_published_axion_independent_repository_available",
   "visibility": "public",
   "contact": "https://wa.me/5511912536227",
   "languages": [
@@ -110,7 +110,9 @@
           "original_path": "portfolio/Captura de tela 2026-11-08 143416.png",
           "sha": "9e2ec5491da5573f5d1e914c6ac8da6d009993e1"
         }
-      ]
+      ],
+      "published_repository": "https://github.com/Sistemas-Proficional/axion-broker-white-label",
+      "tag_glossary": "https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/docs/keyword-glossary.md"
     },
     {
       "name": "corretora-forex-desenvolvimento-profissional",
@@ -162,8 +164,8 @@
   "notes": [
     "As cinco imagens originais foram enviadas pelo usuário ao GitHub e inspecionadas visualmente.",
     "As cópias em assets usam os mesmos blobs dos arquivos originais, sem alterações nas imagens.",
-    "Os novos repositórios separados ainda não foram criados; as apresentações estão em pastas do repositório do perfil.",
-    "A apresentação Forex descreve um serviço; as imagens AXION ilustram opções binárias em conta demo."
+    "A apresentação Forex descreve um serviço; as imagens AXION ilustram opções binárias em conta demo.",
+    "O repositório independente AXION está publicado. As demais apresentações permanecem nas pastas do portfólio."
   ],
   "published_catalog": "https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio",
   "images_published": true

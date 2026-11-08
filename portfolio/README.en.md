@@ -10,7 +10,7 @@ Explore software projects and development services from Sistemas White Label. Ch
 | --- | --- | --- |
 | Chinese-style White Label Casino | Online Casino Platform | [Explore this project](cassino-chines-white-label/README.en.md) |
 | Brazilian Casino Platform | Professional White Label Development | [Explore this project](bet-nacional-plataforma-profissional/README.en.md) |
-| White Label Binary Options Platform | AXION | [Explore this project](corretora-opcoes-binarias-profissional/README.en.md) |
+| White Label Binary Options Platform | AXION | [Explore this project](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.en.md) |
 | Professional Forex Brokerage Software | Custom Development | [Explore this project](corretora-forex-desenvolvimento-profissional/README.en.md) |
 | Telegram Signal Bot | Channel and Group Automation | [Explore this project](bot-sinais-telegram-profissional/README.en.md) |
 
@@ -36,7 +36,7 @@ Presentations available in Portuguese, Spanish and English.
 
 ![AXION demo terminal showing a BTC/USDT chart and trading controls.](corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png)
 
-[View project](corretora-opcoes-binarias-profissional/README.en.md)
+[View project](https://github.com/Sistemas-Proficional/axion-broker-white-label/blob/main/README.en.md)
 
 ### Telegram Signal Bot
 
