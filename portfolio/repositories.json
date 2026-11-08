@@ -1,6 +1,6 @@
 {
   "owner": "Sistemas-Proficional",
-  "status": "text_presentations_published_in_profile_repository_images_and_separate_repositories_pending",
+  "status": "presentations_and_images_published_in_profile_repository_separate_repositories_pending",
   "visibility": "public",
   "contact": "https://wa.me/5511912536227",
   "languages": [
@@ -32,7 +32,10 @@
             "pt": "Lobby 777: apresentação visual do cassino, banners, catálogo e navegação do jogador.",
             "es": "Lobby 777: presentación visual del casino, banners, catálogo y navegación del jugador.",
             "en": "777 lobby showing the casino layout, banners, game catalog and player navigation."
-          }
+          },
+          "published_path": "portfolio/cassino-chines-white-label/assets/777-casino-lobby.png",
+          "original_path": "portfolio/Captura de tela 2026-11-08 143334.png",
+          "sha": "14a06fdca4f577f375551f548fdb428def88c511"
         }
       ]
     },
@@ -59,13 +62,16 @@
             "pt": "Interface 7Prime com banner, catálogo, jogos populares e navegação em português.",
             "es": "Interfaz 7Prime con banner, catálogo, juegos populares y navegación en portugués.",
             "en": "7Prime interface showing the banner, catalog, popular games and Portuguese navigation."
-          }
+          },
+          "published_path": "portfolio/bet-nacional-plataforma-profissional/assets/7prime-casino-lobby.png",
+          "original_path": "portfolio/Captura de tela 2026-11-08 143452.png",
+          "sha": "a35aea450315e744dabd1e9a03bc21c2ab66b402"
         }
       ]
     },
     {
       "name": "corretora-opcoes-binarias-profissional",
-      "description": "Corretora de opções binárias: página AXION e terminal demo. Plataforma de opciones binarias. Binary options platform development. PT / ES / EN.",
+      "description": "Corretora de opções binárias white label — AXION. Plataforma de opciones binarias de marca blanca. White label binary options platform. PT / ES / EN.",
       "topics": [
         "binary-options",
         "trading-platform",
@@ -86,7 +92,10 @@
             "pt": "Página institucional AXION: identidade visual e apresentação da plataforma.",
             "es": "Página institucional AXION: identidad visual y presentación de la plataforma.",
             "en": "AXION landing page presenting the brand and platform."
-          }
+          },
+          "published_path": "portfolio/corretora-opcoes-binarias-profissional/assets/axion-landing-page.png",
+          "original_path": "portfolio/Captura de tela 2026-11-08 143358.png",
+          "sha": "cd7459560dd3f80447f4f77cfc9d4037e457e307"
         },
         {
           "order": 3,
@@ -96,7 +105,10 @@
             "pt": "Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação.",
             "es": "Terminal AXION en cuenta demo: gráfico BTC/USDT y controles de operación.",
             "en": "AXION demo terminal showing a BTC/USDT chart and trading controls."
-          }
+          },
+          "published_path": "portfolio/corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png",
+          "original_path": "portfolio/Captura de tela 2026-11-08 143416.png",
+          "sha": "9e2ec5491da5573f5d1e914c6ac8da6d009993e1"
         }
       ]
     },
@@ -139,16 +151,20 @@
             "pt": "Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3.",
             "es": "Ejemplo de mensaje en Telegram: USDCAD, PUT, 17:05, M5 y UTC-3.",
             "en": "Telegram message example: USDCAD, PUT, 17:05, M5 and UTC-3."
-          }
+          },
+          "published_path": "portfolio/bot-sinais-telegram-profissional/assets/telegram-signal-example.png",
+          "original_path": "portfolio/Captura de tela 2026-11-08 143552.png",
+          "sha": "ceb338e428d8ae471c129027183c0f5bed3af276"
         }
       ]
     }
   ],
   "notes": [
-    "As cinco imagens foram inspecionadas visualmente no chat; os arquivos binários originais não estão acessíveis ao ambiente atual.",
-    "Os repositórios novos ainda não foram criados. Os nomes são destinos planejados, não links publicados.",
-    "A apresentação Forex descreve um serviço; nenhuma imagem de opções binárias deve ser apresentada como prova de integração Forex.",
-    "O pacote foi preparado sem exigir código-fonte, novas imagens ou acesso aos sistemas."
+    "As cinco imagens originais foram enviadas pelo usuário ao GitHub e inspecionadas visualmente.",
+    "As cópias em assets usam os mesmos blobs dos arquivos originais, sem alterações nas imagens.",
+    "Os novos repositórios separados ainda não foram criados; as apresentações estão em pastas do repositório do perfil.",
+    "A apresentação Forex descreve um serviço; as imagens AXION ilustram opções binárias em conta demo."
   ],
-  "published_catalog": "https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio"
+  "published_catalog": "https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio",
+  "images_published": true
 }

@@ -8,6 +8,12 @@ Presentación de un proyecto de casino con identidad 7Prime e interfaz en portug
 
 **[Solicitar presupuesto · WhatsApp](https://wa.me/5511912536227?text=%C2%A1Hola!%20Encontr%C3%A9%20en%20GitHub%20el%20proyecto%20bet-nacional-plataforma-profissional%20y%20me%20gustar%C3%ADa%20solicitar%20un%20presupuesto.)**
 
+## Imágenes del proyecto
+
+![Interfaz 7Prime con banner, catálogo, juegos populares y navegación en portugués.](assets/7prime-casino-lobby.png)
+
+*Interfaz 7Prime con banner, catálogo, juegos populares y navegación en portugués.*
+
 ## Interfaz 7Prime
 
 - Identidad visual azul y negra con la marca 7Prime.

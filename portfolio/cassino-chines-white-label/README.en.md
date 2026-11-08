@@ -8,6 +8,12 @@ Casino platform development portfolio featuring the 777 interface as a visual re
 
 **[Request a quote · WhatsApp](https://wa.me/5511912536227?text=Hi!%20I%20found%20the%20GitHub%20project%20cassino-chines-white-label%20and%20would%20like%20to%20request%20a%20quote.)**
 
+## Project screenshots
+
+![777 lobby showing the casino layout, banners, game catalog and player navigation.](assets/777-casino-lobby.png)
+
+*777 lobby showing the casino layout, banners, game catalog and player navigation.*
+
 ## Presented interface
 
 - 777 branding with a green, black and gold theme.

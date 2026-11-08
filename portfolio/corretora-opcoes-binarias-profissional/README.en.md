@@ -1,12 +1,22 @@
-# Professional Binary Options Platform | AXION
+# White Label Binary Options Platform | AXION
 
 **Sistemas White Label · [Sistemas-Proficional](https://github.com/Sistemas-Proficional)**
 
 [Português](README.md) · [Español](README.es.md) · [English](README.en.md)
 
-Software development portfolio for binary options brokerage projects. AXION is presented through its landing page and a demo-account trading terminal.
+Software development portfolio for white label binary options brokerage projects, with brand customization and a tailored project scope. AXION is presented through its landing page and a demo-account trading terminal.
 
 **[Request a quote · WhatsApp](https://wa.me/5511912536227?text=Hi!%20I%20found%20the%20GitHub%20project%20corretora-opcoes-binarias-profissional%20and%20would%20like%20to%20request%20a%20quote.)**
+
+## Project screenshots
+
+![AXION landing page presenting the brand and platform.](assets/axion-landing-page.png)
+
+*AXION landing page presenting the brand and platform.*
+
+![AXION demo terminal showing a BTC/USDT chart and trading controls.](assets/axion-binary-options-demo.png)
+
+*AXION demo terminal showing a BTC/USDT chart and trading controls.*
 
 ## Presented screens
 

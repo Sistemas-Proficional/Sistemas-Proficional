@@ -8,6 +8,12 @@ Desenvolvimento de bots para Telegram e automação da distribuição de mensage
 
 **[Solicitar orçamento · WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20no%20GitHub%20o%20projeto%20bot-sinais-telegram-profissional%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento.)**
 
+## Imagens do projeto
+
+![Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3.](assets/telegram-signal-example.png)
+
+*Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3.*
+
 ## Formato de mensagem apresentado
 
 - Identificação do ativo USDCAD e direção PUT.

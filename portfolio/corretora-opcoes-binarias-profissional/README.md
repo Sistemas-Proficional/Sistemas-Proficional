@@ -1,12 +1,22 @@
-# Corretora de opções binárias profissional | Plataforma AXION
+# Corretora de opções binárias white label | Plataforma AXION
 
 **Sistemas White Label · [Sistemas-Proficional](https://github.com/Sistemas-Proficional)**
 
 [Português](README.md) · [Español](README.es.md) · [English](README.en.md)
 
-Portfólio de desenvolvimento de software para corretoras de opções binárias. O projeto AXION é apresentado por sua página institucional e pelo terminal de negociação em conta demo.
+Portfólio de desenvolvimento de software para corretora de opções binárias white label, com personalização da marca e escopo sob medida. O projeto AXION é apresentado por sua página institucional e pelo terminal de negociação em conta demo.
 
 **[Solicitar orçamento · WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20no%20GitHub%20o%20projeto%20corretora-opcoes-binarias-profissional%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento.)**
+
+## Imagens do projeto
+
+![Página institucional AXION: identidade visual e apresentação da plataforma.](assets/axion-landing-page.png)
+
+*Página institucional AXION: identidade visual e apresentação da plataforma.*
+
+![Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação.](assets/axion-binary-options-demo.png)
+
+*Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação.*
 
 ## Telas apresentadas
 

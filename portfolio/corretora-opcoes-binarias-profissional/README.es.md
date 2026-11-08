@@ -1,12 +1,22 @@
-# Plataforma profesional de opciones binarias | AXION
+# Plataforma de opciones binarias de marca blanca | AXION
 
 **Sistemas White Label · [Sistemas-Proficional](https://github.com/Sistemas-Proficional)**
 
 [Português](README.md) · [Español](README.es.md) · [English](README.en.md)
 
-Portafolio de desarrollo de software para brókeres de opciones binarias. El proyecto AXION se presenta mediante su página institucional y una terminal de negociación en cuenta demo.
+Portafolio de desarrollo de software para brókeres de opciones binarias de marca blanca, con personalización de marca y alcance a medida. El proyecto AXION se presenta mediante su página institucional y una terminal de negociación en cuenta demo.
 
 **[Solicitar presupuesto · WhatsApp](https://wa.me/5511912536227?text=%C2%A1Hola!%20Encontr%C3%A9%20en%20GitHub%20el%20proyecto%20corretora-opcoes-binarias-profissional%20y%20me%20gustar%C3%ADa%20solicitar%20un%20presupuesto.)**
+
+## Imágenes del proyecto
+
+![Página institucional AXION: identidad visual y presentación de la plataforma.](assets/axion-landing-page.png)
+
+*Página institucional AXION: identidad visual y presentación de la plataforma.*
+
+![Terminal AXION en cuenta demo: gráfico BTC/USDT y controles de operación.](assets/axion-binary-options-demo.png)
+
+*Terminal AXION en cuenta demo: gráfico BTC/USDT y controles de operación.*
 
 ## Pantallas presentadas
 

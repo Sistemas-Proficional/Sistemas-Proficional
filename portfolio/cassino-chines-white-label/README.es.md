@@ -8,6 +8,12 @@ Portafolio de desarrollo de plataformas de casino online, con la interfaz 777 co
 
 **[Solicitar presupuesto · WhatsApp](https://wa.me/5511912536227?text=%C2%A1Hola!%20Encontr%C3%A9%20en%20GitHub%20el%20proyecto%20cassino-chines-white-label%20y%20me%20gustar%C3%ADa%20solicitar%20un%20presupuesto.)**
 
+## Imágenes del proyecto
+
+![Lobby 777: presentación visual del casino, banners, catálogo y navegación del jugador.](assets/777-casino-lobby.png)
+
+*Lobby 777: presentación visual del casino, banners, catálogo y navegación del jugador.*
+
 ## Interfaz presentada
 
 - Identidad visual 777 con una combinación de verde, negro y dorado.

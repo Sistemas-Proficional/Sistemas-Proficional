@@ -8,6 +8,12 @@ A casino project presentation featuring 7Prime branding and a Portuguese-languag
 
 **[Request a quote · WhatsApp](https://wa.me/5511912536227?text=Hi!%20I%20found%20the%20GitHub%20project%20bet-nacional-plataforma-profissional%20and%20would%20like%20to%20request%20a%20quote.)**
 
+## Project screenshots
+
+![7Prime interface showing the banner, catalog, popular games and Portuguese navigation.](assets/7prime-casino-lobby.png)
+
+*7Prime interface showing the banner, catalog, popular games and Portuguese navigation.*
+
 ## 7Prime interface
 
 - Blue and black visual identity with 7Prime branding.

@@ -8,6 +8,12 @@ Telegram bot development and automated message distribution for channels and gro
 
 **[Request a quote · WhatsApp](https://wa.me/5511912536227?text=Hi!%20I%20found%20the%20GitHub%20project%20bot-sinais-telegram-profissional%20and%20would%20like%20to%20request%20a%20quote.)**
 
+## Project screenshots
+
+![Telegram message example: USDCAD, PUT, 17:05, M5 and UTC-3.](assets/telegram-signal-example.png)
+
+*Telegram message example: USDCAD, PUT, 17:05, M5 and UTC-3.*
+
 ## Presented message format
 
 - USDCAD asset and PUT direction.

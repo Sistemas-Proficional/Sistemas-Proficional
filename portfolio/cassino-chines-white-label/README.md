@@ -8,6 +8,12 @@ Portfólio de desenvolvimento de plataforma de cassino online, com a interface 7
 
 **[Solicitar orçamento · WhatsApp](https://wa.me/5511912536227?text=Ol%C3%A1!%20Encontrei%20no%20GitHub%20o%20projeto%20cassino-chines-white-label%20e%20gostaria%20de%20solicitar%20um%20or%C3%A7amento.)**
 
+## Imagens do projeto
+
+![Lobby 777: apresentação visual do cassino, banners, catálogo e navegação do jogador.](assets/777-casino-lobby.png)
+
+*Lobby 777: apresentação visual do cassino, banners, catálogo e navegação do jogador.*
+
 ## Interface apresentada
 
 - Identidade visual 777 com tema verde, preto e dourado.

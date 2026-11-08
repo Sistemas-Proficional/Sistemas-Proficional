@@ -6,15 +6,43 @@
 
 Conheça os projetos e serviços de desenvolvimento da Sistemas White Label. Escolha uma área para ver a apresentação, os recursos descritos e as possibilidades de personalização.
 
-| Projeto ou serviço | Conhecer o projeto |
-| --- | --- |
+| Projeto ou serviço | Descrição | Apresentação |
+| --- | --- | --- |
 | Cassino chinês white label | Plataforma de cassino online | [Conhecer o projeto](cassino-chines-white-label/README.md) |
 | Bet nacional | Plataforma profissional de cassino para o Brasil | [Conhecer o projeto](bet-nacional-plataforma-profissional/README.md) |
-| Corretora de opções binárias profissional | Plataforma AXION | [Conhecer o projeto](corretora-opcoes-binarias-profissional/README.md) |
+| Corretora de opções binárias white label | Plataforma AXION | [Conhecer o projeto](corretora-opcoes-binarias-profissional/README.md) |
 | Corretora Forex profissional | Desenvolvimento de software sob medida | [Conhecer o projeto](corretora-forex-desenvolvimento-profissional/README.md) |
 | Bot de sinais Telegram | Automação profissional para salas de sinais | [Conhecer o projeto](bot-sinais-telegram-profissional/README.md) |
 
 Apresentações disponíveis em português, espanhol e inglês.
+
+## Projetos em imagens
+
+### Cassino chinês white label
+
+![Lobby 777: apresentação visual do cassino, banners, catálogo e navegação do jogador.](cassino-chines-white-label/assets/777-casino-lobby.png)
+
+[Ver apresentação](cassino-chines-white-label/README.md)
+
+### Bet nacional
+
+![Interface 7Prime com banner, catálogo, jogos populares e navegação em português.](bet-nacional-plataforma-profissional/assets/7prime-casino-lobby.png)
+
+[Ver apresentação](bet-nacional-plataforma-profissional/README.md)
+
+### Corretora de opções binárias white label
+
+![Página institucional AXION: identidade visual e apresentação da plataforma.](corretora-opcoes-binarias-profissional/assets/axion-landing-page.png)
+
+![Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação.](corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png)
+
+[Ver apresentação](corretora-opcoes-binarias-profissional/README.md)
+
+### Bot de sinais Telegram
+
+![Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3.](bot-sinais-telegram-profissional/assets/telegram-signal-example.png)
+
+[Ver apresentação](bot-sinais-telegram-profissional/README.md)
 
 ## Solicitar orçamento
 

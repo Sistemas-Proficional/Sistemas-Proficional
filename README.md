@@ -27,7 +27,7 @@ As funcionalidades e integrações são definidas conforme a necessidade do proj
 
 Explore estas apresentações públicas para conhecer algumas das áreas em que trabalho:
 
-| Área | Repositório |
+| Área | Apresentação |
 | --- | --- |
 | **Cassino chinês white label** | [Interface 777 e desenvolvimento de cassino](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/cassino-chines-white-label) |
 | **Bet nacional** | [Projeto 7Prime — plataforma de cassino](https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bet-nacional-plataforma-profissional) |
@@ -38,7 +38,20 @@ Explore estas apresentações públicas para conhecer algumas das áreas em que 
 
 **[Explorar todos os repositórios públicos →](https://github.com/Sistemas-Proficional?tab=repositories)**
 
-O conteúdo disponível e as condições de acesso ao código de cada solução estão descritos no respectivo repositório.
+O conteúdo disponível e as condições de acesso ao código de cada solução estão descritos na respectiva apresentação ou repositório.
+
+## Projetos em imagens · Project gallery · Galería
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/cassino-chines-white-label"><img src="portfolio/cassino-chines-white-label/assets/777-casino-lobby.png" alt="Lobby 777: apresentação visual do cassino, banners, catálogo e navegação do jogador." width="400" /></a><br /><strong>777 · Cassino / Casino</strong></td>
+<td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bet-nacional-plataforma-profissional"><img src="portfolio/bet-nacional-plataforma-profissional/assets/7prime-casino-lobby.png" alt="Interface 7Prime com banner, catálogo, jogos populares e navegação em português." width="400" /></a><br /><strong>7Prime · Bet nacional</strong></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/corretora-opcoes-binarias-profissional"><img src="portfolio/corretora-opcoes-binarias-profissional/assets/axion-binary-options-demo.png" alt="Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação." width="400" /></a><br /><strong>AXION · Binary options / Opciones binarias</strong></td>
+<td width="50%" valign="top"><a href="https://github.com/Sistemas-Proficional/Sistemas-Proficional/tree/main/portfolio/bot-sinais-telegram-profissional"><img src="portfolio/bot-sinais-telegram-profissional/assets/telegram-signal-example.png" alt="Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3." width="400" /></a><br /><strong>Telegram · Bots de sinais / señales</strong></td>
+</tr>
+</table>
 
 ## Tem uma ideia de sistema?
 
@@ -69,6 +82,8 @@ Entre em contato com os detalhes do projeto para consultar o escopo, os valores 
 
 ## Custom software development
 
+**[View the portfolio in English](https://github.com/Sistemas-Proficional/Sistemas-Proficional/blob/main/portfolio/README.en.md)**
+
 I develop **SaaS products, websites, casino platforms, Forex and binary options brokerage software, Telegram bots, signal room automation and custom software integrations**.
 
 My services include:
@@ -88,6 +103,8 @@ To discuss a project, share your goals, required features, integrations and expe
 ---
 
 ## Desarrollo de software a medida
+
+**[Ver el portafolio en español](https://github.com/Sistemas-Proficional/Sistemas-Proficional/blob/main/portfolio/README.es.md)**
 
 Desarrollo **productos SaaS, sitios web, plataformas de casino, software para brókeres de Forex y opciones binarias, bots de Telegram y automatizaciones para salas de señales**.
 
