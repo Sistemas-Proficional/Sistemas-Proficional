@@ -1,0 +1,153 @@
+{
+  "owner": "Sistemas-Proficional",
+  "status": "documentation_prepared_repositories_and_original_images_pending",
+  "visibility": "public",
+  "contact": "https://wa.me/5511912536227",
+  "languages": [
+    "pt",
+    "es",
+    "en"
+  ],
+  "projects": [
+    {
+      "name": "cassino-chines-white-label",
+      "description": "Cassino chinês white label: portfólio da interface 777. Plataforma de casino de marca blanca. Casino platform development. PT / ES / EN.",
+      "topics": [
+        "casino-platform",
+        "white-label",
+        "web-development",
+        "portfolio"
+      ],
+      "files": [
+        "README.md",
+        "README.es.md",
+        "README.en.md"
+      ],
+      "images": [
+        {
+          "order": 1,
+          "path": "assets/777-casino-lobby.png",
+          "source": "Primeira imagem enviada: lobby 777 verde e dourado.",
+          "alt": {
+            "pt": "Lobby 777: apresentação visual do cassino, banners, catálogo e navegação do jogador.",
+            "es": "Lobby 777: presentación visual del casino, banners, catálogo y navegación del jugador.",
+            "en": "777 lobby showing the casino layout, banners, game catalog and player navigation."
+          }
+        }
+      ]
+    },
+    {
+      "name": "bet-nacional-plataforma-profissional",
+      "description": "Bet nacional: portfólio da interface de cassino 7Prime. Plataforma de casino para Brasil. Brazilian casino platform development. PT / ES / EN.",
+      "topics": [
+        "casino-platform",
+        "white-label",
+        "web-development",
+        "portfolio"
+      ],
+      "files": [
+        "README.md",
+        "README.es.md",
+        "README.en.md"
+      ],
+      "images": [
+        {
+          "order": 4,
+          "path": "assets/7prime-casino-lobby.png",
+          "source": "Quarta imagem enviada: lobby 7Prime azul, catálogo de jogos.",
+          "alt": {
+            "pt": "Interface 7Prime com banner, catálogo, jogos populares e navegação em português.",
+            "es": "Interfaz 7Prime con banner, catálogo, juegos populares y navegación en portugués.",
+            "en": "7Prime interface showing the banner, catalog, popular games and Portuguese navigation."
+          }
+        }
+      ]
+    },
+    {
+      "name": "corretora-opcoes-binarias-profissional",
+      "description": "Corretora de opções binárias: página AXION e terminal demo. Plataforma de opciones binarias. Binary options platform development. PT / ES / EN.",
+      "topics": [
+        "binary-options",
+        "trading-platform",
+        "white-label",
+        "portfolio"
+      ],
+      "files": [
+        "README.md",
+        "README.es.md",
+        "README.en.md"
+      ],
+      "images": [
+        {
+          "order": 2,
+          "path": "assets/axion-landing-page.png",
+          "source": "Segunda imagem enviada: página de apresentação AXION.",
+          "alt": {
+            "pt": "Página institucional AXION: identidade visual e apresentação da plataforma.",
+            "es": "Página institucional AXION: identidad visual y presentación de la plataforma.",
+            "en": "AXION landing page presenting the brand and platform."
+          }
+        },
+        {
+          "order": 3,
+          "path": "assets/axion-binary-options-demo.png",
+          "source": "Terceira imagem enviada: terminal AXION BTC/USDT, conta demo.",
+          "alt": {
+            "pt": "Terminal AXION em conta demo: gráfico BTC/USDT e controles de operação.",
+            "es": "Terminal AXION en cuenta demo: gráfico BTC/USDT y controles de operación.",
+            "en": "AXION demo terminal showing a BTC/USDT chart and trading controls."
+          }
+        }
+      ]
+    },
+    {
+      "name": "corretora-forex-desenvolvimento-profissional",
+      "description": "Desenvolvimento de software para corretoras Forex. Desarrollo para brókeres Forex. Custom Forex brokerage software. Escopo sob medida. PT / ES / EN.",
+      "topics": [
+        "forex",
+        "trading-platform",
+        "software-development",
+        "api-integration"
+      ],
+      "files": [
+        "README.md",
+        "README.es.md",
+        "README.en.md"
+      ],
+      "images": []
+    },
+    {
+      "name": "bot-sinais-telegram-profissional",
+      "description": "Bot de sinais Telegram e automação de salas. Bots de Telegram para señales. Telegram signal bot development. Exemplo visual em espanhol. PT / ES / EN.",
+      "topics": [
+        "telegram-bot",
+        "automation",
+        "trading-signals",
+        "api-integration"
+      ],
+      "files": [
+        "README.md",
+        "README.es.md",
+        "README.en.md"
+      ],
+      "images": [
+        {
+          "order": 5,
+          "path": "assets/telegram-signal-example.png",
+          "source": "Quinta imagem enviada: mensagem Telegram USDCAD PUT em espanhol.",
+          "alt": {
+            "pt": "Exemplo de mensagem no Telegram: USDCAD, PUT, 17:05, M5 e UTC-3.",
+            "es": "Ejemplo de mensaje en Telegram: USDCAD, PUT, 17:05, M5 y UTC-3.",
+            "en": "Telegram message example: USDCAD, PUT, 17:05, M5 and UTC-3."
+          }
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "As cinco imagens foram inspecionadas visualmente no chat; os arquivos binários originais não estão acessíveis ao ambiente atual.",
+    "Os repositórios novos ainda não foram criados. Os nomes são destinos planejados, não links publicados.",
+    "A apresentação Forex descreve um serviço; nenhuma imagem de opções binárias deve ser apresentada como prova de integração Forex.",
+    "O pacote foi preparado sem exigir código-fonte, novas imagens ou acesso aos sistemas."
+  ]
+}
